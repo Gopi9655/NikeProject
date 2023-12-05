@@ -19,7 +19,7 @@ const Nav = () => {
       ))}
 
     </ul>
-    <div className='hidden max-lg:block'>
+    <div className='hidden max-lg:block '>
       <img  src={hamburger} alt='hamburger' width={25} height={25} />
       </div>
     
