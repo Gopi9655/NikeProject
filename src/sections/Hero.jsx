@@ -14,7 +14,7 @@ const Hero = () => {
     max-container" >
   <div className="relative xl:w-2/5 flex flex-col justify-center items-start w-full max-xl:padding-x pt-28">
     <p className="font-montserrat text-coral-red text-xl">Our Summer Collection</p>
-      <h1 className="mt-10  font-palanquin max-sm:text-[72px] max-sm:leading-[82] font-bold text-8xl ">
+      <h1 className="mt-10  font-palanquin max-sm:text-[72px] max-sm:leading-[42px] max-sm:text-3xl   font-bold text-8xl  ">
        <span className="xl:bg-white xl:whitespace-nowrap relative  z-10
         pr-10">The New Arrival </span>
          <br />
