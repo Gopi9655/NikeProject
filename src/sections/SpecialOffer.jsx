@@ -24,7 +24,7 @@ Unlock your potential with our exclusive Nike Special Offer! Elevate your game w
     <p className="mt-4 lg:max-w-lg info-text"> Experience the pinnacle of performance with our limited-time Nike Special Offer. From iconic sneakers to cutting-edge activewear, seize the opportunity to elevate your style and stride. Shop today and step into excellence.</p>
     <div className="mt-11 flex flex-wrap gap-4">
     <Button label="Shop Now" iconURL={arrowRight} />
-    <Button label="learn more " backgroundColor="bg-white" borderColor="border-slate-gray" textColor="texxt-slate-gray" />
+    <Button label="learn more " backgroundColor="bg-white" borderColor="border-slate-gray" textColor="text-slate-gray" />
     </div>
     </div>
     
